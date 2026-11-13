@@ -1,0 +1,151 @@
+.past-fests-container10 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.past-fests-text10 {
+  color: var(--color-on-accent);
+  background: var(--color-accent);
+}
+ 
+.past-fests-container11 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.past-fests-container12 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.past-fests-image1 {
+  width: 200px;
+  height: 324px;
+  object-fit: cover;
+}
+ 
+.past-fests-image2 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.past-fests-link1 {
+  text-decoration: underline;
+}
+ 
+.past-fests-link2 {
+  text-decoration: underline;
+}
+ 
+.past-fests-thq-kick-btn-elm1 {
+  text-align: center;
+  text-decoration: none;
+}
+ 
+.past-fests-image3 {
+  width: 229px;
+  height: 363px;
+  object-fit: cover;
+}
+ 
+.past-fests-link3 {
+  text-decoration: underline;
+}
+ 
+.past-fests-link4 {
+  text-decoration: underline;
+}
+ 
+.past-fests-thq-kick-btn-elm2 {
+  text-align: center;
+  text-decoration: none;
+}
+ 
+.past-fests-container13 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.past-fests-image4 {
+  width: 226px;
+  height: 352px;
+  object-fit: cover;
+}
+ 
+.past-fests-link5 {
+  text-decoration: underline;
+}
+ 
+.past-fests-thq-kick-btn-elm3 {
+  text-align: center;
+  text-decoration: none;
+}
+ 
+.past-fests-image5 {
+  width: 229px;
+  height: 358px;
+  object-fit: cover;
+}
+ 
+.past-fests-thq-kick-btn-elm4 {
+  text-align: center;
+  text-decoration: none;
+}
+ 
+.past-fests-motion-node2 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.past-fests-motion-node3 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.past-fests-motion-node4 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.past-fests-container14 {
+  display: none;
+}
+ 
+.past-fests-container15 {
+  display: contents;
+}
+ 
+.past-fests-container16 {
+  display: none;
+}
+ 
+.past-fests-container17 {
+  display: contents;
+}
+ 
+.past-fests-container18 {
+  display: none;
+}
+ 
+.past-fests-container19 {
+  display: contents;
+}
+ 
+.past-fests-container20 {
+  display: none;
+}
+ 
+.past-fests-container21 {
+  display: contents;
+}

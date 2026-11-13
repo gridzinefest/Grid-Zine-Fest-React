@@ -1,0 +1,209 @@
+.authenticity1-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.authenticity1-thq-hc-mark-elm {
+  color: var(--color-on-accent);
+  padding: 0 0.12em;
+  background: var(--color-accent);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+ 
+.authenticity1-motion-node1 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-motion-node2 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-thq-auth-tag-chip-elm1 {
+  color: var(--color-accent);
+  border: 2px solid var(--color-border);
+  padding: 2px 10px;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  font-family: var(--font-family-heading);
+}
+ 
+.authenticity1-thq-auth-tag-chip-elm2 {
+  color: var(--color-accent);
+  border: 2px solid var(--color-border);
+  padding: 2px 10px;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  font-family: var(--font-family-heading);
+}
+ 
+.authenticity1-motion-node3 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-motion-node4 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-thq-auth-faq-item-elm1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.authenticity1-accordion-trigger1 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.authenticity1-thq-auth-faq-q-elm1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.authenticity1-thq-auth-faq-icon-elm1 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.authenticity1-thq-auth-faq-item-elm2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.authenticity1-accordion-trigger2 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.authenticity1-thq-auth-faq-q-elm2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.authenticity1-thq-auth-faq-icon-elm2 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.authenticity1-thq-auth-faq-item-elm3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.authenticity1-accordion-trigger3 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.authenticity1-thq-auth-faq-q-elm3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.authenticity1-thq-auth-faq-icon-elm3 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.authenticity1-thq-auth-faq-item-elm4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.authenticity1-accordion-trigger4 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.authenticity1-thq-auth-faq-q-elm4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.authenticity1-thq-auth-faq-icon-elm4 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.authenticity1-thq-auth-faq-item-elm5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.authenticity1-accordion-trigger5 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.authenticity1-thq-auth-faq-q-elm5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.authenticity1-thq-auth-faq-icon-elm5 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.authenticity1-motion-node5 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-motion-node6 {
+  flex: 0 1 auto;
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+ 
+.authenticity1-container2 {
+  display: none;
+}
+ 
+.authenticity1-container3 {
+  display: contents;
+}
+ 
+.authenticity1-container4 {
+  display: none;
+}
+ 
+.authenticity1-container5 {
+  display: contents;
+}

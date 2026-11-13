@@ -1,0 +1,123 @@
+.home1-container10 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.home1-container11 {
+  display: none;
+}
+ 
+.home1-container12 {
+  display: contents;
+}
+ 
+.home1-thq-hc-mark-elm1 {
+  color: var(--color-on-accent);
+  padding: 0 0.12em;
+  background: var(--color-accent);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+ 
+.home1-image {
+  width: 634px;
+  height: 346px;
+  object-fit: cover;
+}
+ 
+.home1-thq-hc-mark-orange-elm {
+  color: var(--color-on-secondary);
+  padding: 0 0.12em;
+  background: var(--color-secondary);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+ 
+.home1-motion-node2 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.home1-thq-hc-mark-elm2 {
+  color: var(--color-on-accent);
+  padding: 0 0.12em;
+  background: var(--color-accent);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+ 
+.home1-motion-node3 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.home1-motion-node5 {
+  z-index: 1;
+  position: relative;
+}
+ 
+.home1-thq-home-cal-text-elm {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-family-body);
+}
+ 
+.home1-thq-home-cal-go-elm {
+  flex: none;
+  color: var(--color-on-accent);
+  width: 72px;
+  border: 3px solid var(--color-surface);
+  height: 72px;
+  display: flex;
+  background: var(--color-accent);
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home1-container13 {
+  display: none;
+}
+ 
+.home1-container14 {
+  display: contents;
+}
+ 
+.home1-container15 {
+  display: none;
+}
+ 
+.home1-container16 {
+  display: contents;
+}
+ 
+.home1-container17 {
+  display: none;
+}
+ 
+.home1-container18 {
+  display: contents;
+}
+ 
+.home1-container19 {
+  display: none;
+}
+ 
+.home1-container20 {
+  display: contents;
+}
+ 
+@media(max-width: 767px) {
+  .home1-thq-home-cal-go-elm {
+    width: 56px;
+    height: 56px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .home1-thq-home-cal-text-elm {
+    font-size: var(--font-size-base);
+  }
+}

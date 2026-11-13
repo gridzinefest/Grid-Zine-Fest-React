@@ -1,0 +1,159 @@
+.drop-calendar-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.drop-calendar-thq-hc-mark-elm {
+  color: var(--color-on-accent);
+  padding: 0 0.12em;
+  background: var(--color-accent);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+ 
+.drop-calendar-motion-node1 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.drop-calendar-motion-node2 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.drop-calendar-thq-cal-faq-item-elm1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.drop-calendar-accordion-trigger1 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.drop-calendar-thq-cal-faq-q-elm1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.drop-calendar-thq-cal-faq-icon-elm1 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.drop-calendar-thq-cal-faq-item-elm2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.drop-calendar-accordion-trigger2 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.drop-calendar-thq-cal-faq-q-elm2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.drop-calendar-thq-cal-faq-icon-elm2 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.drop-calendar-thq-cal-faq-item-elm3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.drop-calendar-accordion-trigger3 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.drop-calendar-thq-cal-faq-q-elm3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.drop-calendar-thq-cal-faq-icon-elm3 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.drop-calendar-thq-cal-faq-item-elm4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.drop-calendar-accordion-trigger4 {
+  cursor: pointer;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+}
+ 
+.drop-calendar-thq-cal-faq-q-elm4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.drop-calendar-thq-cal-faq-icon-elm4 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.drop-calendar-motion-node3 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.drop-calendar-motion-node4 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.drop-calendar-motion-node5 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.drop-calendar-container2 {
+  display: none;
+}
+ 
+.drop-calendar-container3 {
+  display: contents;
+}
+ 
+.drop-calendar-container4 {
+  display: none;
+}
+ 
+.drop-calendar-container5 {
+  display: contents;
+}

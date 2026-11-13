@@ -1,0 +1,9 @@
+.footer-container {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
